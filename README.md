@@ -1,1 +1,1 @@
-My first readme with alx se course
+My first readme with ALX software engineering course
